@@ -1,0 +1,59 @@
+.Welcome{
+    text-align: center;
+}
+
+.sidenote{
+    font-style: italic;
+    font-size: small;
+}
+
+.post-title{
+    font-weight: 400;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.caption{
+    font-size:smaller;
+    font-style: normal;
+    text-align: left;
+}
+
+.myresume{
+    font-size: x-large;
+}
+
+.resumesection{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.subsection{
+    font-size: smaller;
+    font-weight: lighter;
+}
+
+.point{
+    font-size: smaller;
+}
+
+.contact{
+    text-align: center;
+    font-weight: lighter;
+}
+
+.hobbies{
+    font-size: x-large;
+}
+
+.website{
+    font-size:small;
+    font-style: normal;
+    text-align: left;
+}
+
+.pot{
+    font-size:normal;
+    color:salmon;
+    font-style: normal;
+    text-align: left;
+}
